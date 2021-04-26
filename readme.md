@@ -1,6 +1,7 @@
 # BUSINESS LAUNCH TIMER 
 
 Une page web simple pour le décompte de lancement de projet.
+### [Voir un aperçu](https://jeffcodeur.github.io/business-launch-timer/)
 
 ## Technologies
 
